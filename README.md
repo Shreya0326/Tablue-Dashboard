@@ -12,8 +12,9 @@ In Tableau, creating the Global Superstore Dashboard
    * Quantity Ordered and Discount Given on Years:
         Create a bubble chart based on the quantity ordered with discount and categories and having filter on year of oder date. This will show the trend of quantity ordered and discount given over the years.
 
-    * Profit Data On Months With Priority:
-        Similar to point 1,Create a text table with months on the coloumns side, sub-category on the row side , and color encoding for different priorities, having filter on order priority with high,low and medium ranges. This will show the total profit for each month, with each boxes grouped or stacked by priority.
+  * Profit Data On Months With Priority:
+        Similar to point 1,Create a text table with months on the coloumns side, sub-category on the row side , and color encoding for different priorities, having filter on order priority with high,low and medium 
+         ranges. This will show the total profit for each month, with each boxes grouped or stacked by priority.
  * Map graph :
      Map graph we have relation between customer segment and country with filter of ranges like  Office Supplies,Furniture,Technology.
          
